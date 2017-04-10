@@ -1,0 +1,2 @@
+# inventory-control-practice-2
+Utilizando como estructura de datos una lista enlazada simple , desarrollar una  aplicación que controle un inventario de productos, donde de un producto cualquiera se guardara el codigo, nombre o descripción , cantidad y el  costo. Para el inventario se podrá agregar, buscar, eliminar o insertar  en una posición un producto, además de obtener el reporte completo en  string. AGREGAR LAS OPCIONES DE AgregarEnInicio (producto) además del que agrega al final que ya estaba considerado.
