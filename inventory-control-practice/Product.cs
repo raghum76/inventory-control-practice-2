@@ -13,7 +13,7 @@ namespace inventory_control_practice
         private int _quantity;
         private double _price;
 
-        public Product next;
+        public Product next {get;set;} //no se usan varaibles publicas, se usan propiedades
 
         public int code
         {
